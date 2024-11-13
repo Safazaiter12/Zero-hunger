@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zero Hunger - SDG 2</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Header Section -->
+  <header class="header">
+    <div class="container">
+      <h1>Zero Hunger: SDG 2</h1>
+      <p>Together, we can end hunger and achieve food security for all.</p>
+      <a href="#get-involved" class="cta-button">Get Involved</a>
+    </div>
+  </header>
+
+  <!-- About SDG 2 Section -->
+  <section id="about" class="section">
+    <div class="container">
+      <h2>What is SDG 2: Zero Hunger?</h2>
+      <p>SDG 2 aims to end hunger, achieve food security, improve nutrition, and promote sustainable agriculture.</p>
+      <div class="stats">
+        <div>
+          <h3>690 million people</h3>
+          <p>suffer from hunger globally.</p>
+        </div>
+        <div>
+          <h3>1 in 3 people</h3>
+          <p>are affected by malnutrition.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Solutions and Success Stories Section -->
+  <section id="solutions" class="section bg-light">
+    <div class="container">
+      <h2>Innovative Solutions</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Sustainable Agriculture</h3>
+          <p>Innovative farming techniques help increase food production and reduce hunger.</p>
+        </div>
+        <div class="card">
+          <h3>Reducing Food Waste</h3>
+          <p>Programs to recover and redistribute surplus food are helping feed communities in need.</p>
+        </div>
+        <div class="card">
+          <h3>Improving Nutrition</h3>
+          <p>Efforts to provide nutritious food and promote healthy eating habits are essential for addressing malnutrition.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Get Involved Section -->
+  <section id="get-involved" class="section">
+    <div class="container">
+      <h2>Get Involved</h2>
+      <p>Every action counts. Here’s how you can contribute to Zero Hunger:</p>
+      <ul>
+        <li><strong>Donate</strong> to organizations fighting hunger.</li>
+        <li><strong>Volunteer</strong> with food banks or local initiatives.</li>
+        <li><strong>Advocate</strong> for policies that promote food security and sustainable agriculture.</li>
+      </ul>
+      <a href="https://donate.example.com" class="cta-button">Donate Now</a>
+    </div>
+  </section>
+
+  <!-- Footer Section -->
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; 2024 Zero Hunger Initiative | All Rights Reserved</p>
+    </div>
+  </footer>
+
+</body>
+</html>
